@@ -1,2 +1,10 @@
 # SalesDashboardPowerBI
-SalesDashboardPowerBI is a Power BI report that visually displays sales data. It provides key metrics such as revenue, sales quantity, and profit margins through charts and graphs. 
+
+
+SalesDashboardPowerBI is a comprehensive  Power BI report that provides a detailed visual representation of sales data. The report is based on a CSV file named HandsOnVentes, which contains multiple tables related to sales transactions, such as products, suppliers, customers, orders, order details, and more. These tables are linked by common fields, such as product IDs, supplier IDs, and customer IDs, to enable data analysis across multiple dimensions.
+
+To develop the SalesDashboardPowerBI report, the data within HandsOnVentes was imported into Power BI and transformed to prepare it for analysis. These transformations included data cleaning, filtering, and aggregation. The data was then modeled to create relationships between the various tables and optimize query performance. The dashboard includes various charts, graphs, and tables, which provide a comprehensive view of sales performance across different dimensions, such as time, product categories, customer segments, and geographical regions.
+
+The report's key feature is its interactive nature, enabling users to slice and dice the data to gain deeper insights into specific segments of the sales data. The report includes interactive features, such as slicers and filters, which allow users to customize the report to focus on specific segments of data. This makes it easy to identify trends and patterns in sales data and to gain insights into factors driving sales performance.
+
+SalesDashboardPowerBI is a  tool for sales teams and managers who need to quickly and easily analyze sales data to make data-driven decisions and improve sales performance. The report provides valuable insights and helps users identify areas for improvement in sales performance. The report's visualizations are easy to understand and interpret, making it accessible to a wide range of users. Overall, SalesDashboardPowerBI is a must-have tool for anyone looking to gain insights into sales data and make data-driven decisions.
